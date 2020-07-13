@@ -1,6 +1,19 @@
+<!--
+ * @Author: httishere
+ * @Date: 2020-07-13 09:24:26
+ * @LastEditTime: 2020-07-13 09:30:43
+ * @LastEditors: Please set LastEditors
+ * @Description: share readme
+ * @FilePath: /manual-box-wechat-app/Users/httishere/workspace/work/daily_share/README.md
+--> 
 # daily_share
 日常分享
 
+#### 2020.07.10
+
+##### Happy Friday
+
+温州话
 
 #### 2019.12.31
 
